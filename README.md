@@ -50,6 +50,6 @@ El proyecto contiene pruebas que validan el flujo de autenticación y compra en 
 🔹 **OverviewPage y FinishPage**: Finaliza la compra y valida el flujo.  
 
 ## 🏆 Autor  
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).  
+Desarrollado por https://github.com/MichaelPizarro/.  
 
 🤖 **¡Happy Testing!**
